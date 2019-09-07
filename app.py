@@ -17,3 +17,10 @@ def hello3(x):
 
 
 hello3(input("What's your name?"))
+
+
+def double(number):
+    return number * 2
+
+
+print(double(str(input("Input number==>"))))
