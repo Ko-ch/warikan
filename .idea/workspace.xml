@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dae427d5-3c8b-4f85-91ad-328a056da6f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/warikan.py" afterDir="false" />
+    <list default="true" id="dae427d5-3c8b-4f85-91ad-328a056da6f0" name="Default Changelist" comment="割り勘のアプリを作ったよ">
+      <change afterPath="$PROJECT_DIR$/app4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warikan.py" beforeDir="false" afterPath="$PROJECT_DIR$/warikan.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.warikan">
+  <component name="RunManager" selected="Python.app4">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hello-function" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +86,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="app4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hello-function" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="warikan" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hello-function" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +130,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app4" />
         <item itemvalue="Python.warikan" />
         <item itemvalue="Python.app3" />
         <item itemvalue="Python.app" />
@@ -152,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567826006847</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="割り勘のアプリを作ったよ">
+      <created>1567827026009</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567827026009</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,7 +191,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -171,7 +204,8 @@
     <MESSAGE value="function hello was made" />
     <MESSAGE value="reformat code2" />
     <MESSAGE value="関数の定義で試している" />
-    <option name="LAST_COMMIT_MESSAGE" value="関数の定義で試している" />
+    <MESSAGE value="割り勘のアプリを作ったよ" />
+    <option name="LAST_COMMIT_MESSAGE" value="割り勘のアプリを作ったよ" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
